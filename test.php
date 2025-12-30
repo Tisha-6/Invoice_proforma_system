@@ -5,26 +5,3 @@ if ($conn->connect_error) {
 }
 echo "Database Connected Successfully";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
